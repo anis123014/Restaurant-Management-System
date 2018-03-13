@@ -1,7 +1,7 @@
 # Restaurant-Management-System
 It is a Java Application. 
 --------------------------------------
-See The Documentation above for details.
+See The demo.jpg above for details.
 --------------------------------------
 
 The Restaurant Management System helps the restaurant manager to manage the restaurant more effectively and efficiently by computerizing meal ordering, billing and inventory control. This management system is designed for a Chinese Restaurant and the interface will be in Chinese.
